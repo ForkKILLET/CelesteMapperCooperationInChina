@@ -77,3 +77,10 @@ Alt + 方向键
 在右边的菜单的左边一列中选择 Placements, 再在下面选择 Entities, 在右边选择一条然后在房间里左键就能放置了.  
 此外在右边那一列的底下有个白色的搜索框, 可以搜素物体. 对于搜索特定 helper 的物体, 可以在前面加上 `@helper名`,
 例如搜索重力 helper 中的弹球可以键入 `@gravityhelper bumper`, 可以只打词头: `@gra bu`.
+
+## Q4 如何自定义 tile
+
+可以参考:
+
+- [Bilibili - 电箱 - 制图教程第五章 自定义 Tiles](https://www.bilibili.com/video/av859817291)
+- [Bilibili - UnderDragon - tiles 应用教程](https://www.bilibili.com/video/av919066713)
