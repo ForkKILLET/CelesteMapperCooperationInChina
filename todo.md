@@ -11,7 +11,7 @@
     - Ctrl + Shift + S: 另存为
     - Ctrl + T: 新房间(面)
     - Ctrl + Shift + T: 打开当前房间属性面板
-    - Alt + Arrow keys: 移动房间(步长 8px)
+    - Alt + 方向键: 移动房间(步长 8px)
     - Alt + Delete: 删除房间
     - Ctrl + Z: 撤回
     - Ctrl + Shift + Z: 重做
