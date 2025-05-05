@@ -1,7 +1,7 @@
 ## Everest有什么用
 
-因为要做Mod, 就得对原版游戏代码作出修改, 而每个人的改法不同, 势必会产出多个不同的Mod加载器(如图中的Celeste0, Celeste1, Everest), 既不利于传播, 又很浪费生产力, 那怎么办, 增加一层抽象,
-由Everest帮我们把脏活累活儿干了, 我们只需要使用Everest和原版提供的接口就可以很方便的实现各种功能
+因为要做 Mod, 就得对原版游戏代码作出修改, 而每个人的改法不同, 势必会产出多个不同的 Mod 加载器(如图中的Celeste0, Celeste1, Everest), 既不利于传播, 又很浪费生产力, 那怎么办, 增加一层抽象,
+由 Everest 帮我们把脏活累活儿干了, 我们只需要使用 Everest 和原版提供的接口就可以很方便的实现各种功能
 ![why_everest](./images/why_everest.png)
 
 ## 什么是 .NET Core Everest?
